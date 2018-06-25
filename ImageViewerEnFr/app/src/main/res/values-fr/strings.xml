@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ImageViewerEnFr</string>
+    <string name="action_settings" translatable="true">paramètres</string>
+    <string name="simple_string" translatable="true">" Voiture de route la plus rapide"</string>
+</resources>

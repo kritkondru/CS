@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">ImageViewerEnFr</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="simple_string" translatable="true">Fastest Road Car</string>
+</resources>
