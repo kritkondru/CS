@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395902096023",
+    "firebase_url": "https://fir-training-73d97.firebaseio.com",
+    "project_id": "fir-training-73d97",
+    "storage_bucket": "fir-training-73d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395902096023:android:315f6b20efc5697c",
+        "android_client_info": {
+          "package_name": "kondru.kritin.com.firebasetraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395902096023-a34d99kjkse75bn8l8omjppeuaiq0gdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kondru.kritin.com.firebasetraining",
+            "certificate_hash": "b49e2d2b4c536f34c2ac587596c157734569c03e"
+          }
+        },
+        {
+          "client_id": "395902096023-qqnmf0lvohqu3kkqf12hqeff5oedtvpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-8dQwPtxJDGWSH30h7rHWDOVpJJ2wzIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395902096023-qqnmf0lvohqu3kkqf12hqeff5oedtvpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
